@@ -20,6 +20,12 @@ namespace taller2
         
         public int Cantidad { get => cantidad; set => cantidad = value; }
         public float PrecioTotal { get => precioTotal; set => precioTotal = value; }
+
+
+
+        //ricardo propuso poner un menu para que la persona pueda verlo desde el programa
+        //cree este espacio para que pudiese imprimir lo que avia en el menu
+
         public void OpcionesMenu()
         {
             Console.WriteLine("Por favor elegir una opcion");

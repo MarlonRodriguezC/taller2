@@ -16,19 +16,19 @@ namespace taller2
             iniciar_mesas();
             control();
         }
+        // inicia las mesas, asi el programa puede ver cuantas mesas deben ser (son 5)
         static void iniciar_mesas()
         {
             mesas = new Mesa[5];
             for (int i = 0; i < mesas.Length; i++)
             {
                 mesas[i] = new Mesa(i+1);
-                //Console.Write(mesas[i].NumeroDeMesa);
-                //Console.Write(mesas[i].Ocupada);
-                //Console.WriteLine("---------------");
+                
             }
         }
 
-
+        // control es el menu principal de usuario aqui puede elegir mesa, administrar inventario ,
+        // imprimir facturas y demas 
         static void control( )
         {
                 bool en_ejecucion = true;
@@ -51,10 +51,13 @@ namespace taller2
                             opcion_1();
                             break;
                         case 2:
+
                             break;
                         case 3:
+                        
                             break;
                         case 4:
+
                             break;
                         case 5:
                             en_ejecucion = false;
@@ -68,6 +71,10 @@ namespace taller2
             }
         }
 
+
+
+        //la opcion 1 es la opcion de administrar mesas y la cual todos sus options te
+        //va a llevar al documento "administracion"
         static void opcion_1() {
             bool en_ejecucion = true;
             Administracion admin_obj = new Administracion();
@@ -118,79 +125,7 @@ namespace taller2
             }
         }
 
-           // static void VerEstadoMesas()
-           // {
-           //     Console.WriteLine("Estado de las mesas:");
-           //     foreach (var mesa in mesas)
-           //     {
-           //         Console.WriteLine($"Mesa {mesa.NumeroDeMesa}: {(mesa.Ocupada ? "Ocupada" : "Disponible")}");
-           //     }
-           //
-           // }
-           //
-           // static void OcuparMesa()
-           // {
-           //     Console.WriteLine("Ingrese el número de mesa que desea ocupar:");
-           //     if (int.TryParse(Console.ReadLine(), out int numeroMesa))
-           //     {
-           //         if (numeroMesa >= 1 && numeroMesa <= mesas.Length)
-           //         {
-           //             if (!mesas[numeroMesa - 1].Ocupada)
-           //             {
-           //                 mesas[numeroMesa - 1].OcuparMesa();
-           //                 Console.WriteLine($"Mesa {numeroMesa} ocupada correctamente.");
-           //
-           //
-           //
-           //
-           //
-           //             }
-           //             else
-           //             {
-           //                 Console.WriteLine($"La mesa {numeroMesa} ya está ocupada.");
-           //             }
-           //
-           //         }
-           //         else
-           //         {
-           //             Console.WriteLine("Número de mesa inválido.");
-           //         }
-           //     }
-           //     else
-           //     {
-           //         Console.WriteLine("Entrada inválida. Por favor, introduzca un número de mesa válido.");
-           //     }
-           // }
-
-            //static void DesocuparMesa()
-            //{
-            //    Console.WriteLine("Ingrese el número de mesa que desea desocupar:");
-            //    if (int.TryParse(Console.ReadLine(), out int numeroMesa))
-            //    {
-            //        if (numeroMesa >= 1 && numeroMesa <= mesas.Length)
-            //        {
-            //            if (mesas[numeroMesa - 1].Ocupada)
-            //            {
-            //                mesas[numeroMesa - 1].DesocuparMesa();
-            //                Console.WriteLine($"Mesa {numeroMesa} desocupada correctamente.");
-            //            }
-            //            else
-            //            {
-            //                Console.WriteLine($"La mesa {numeroMesa} ya está desocupada.");
-            //            }
-            //        }
-            //        else
-            //        {
-            //            Console.WriteLine("Número de mesa inválido.");
-            //        }
-            //    }
-            //    else
-            //    {
-            //        Console.WriteLine("Entrada inválida. Por favor, introduzca un número de mesa válido.");
-            //    }
-            //}
-
-            
+         
 
 
         

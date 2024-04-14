@@ -8,7 +8,7 @@ namespace taller2
 {
     internal class Administracion
     {
-        
+        // ver estado de mesa deja ver que mesas estan ocupadas y cuales no
         public void ver_estado_mesas(Mesa[] mesas)
         {
             Console.WriteLine("* Estado de las mesas desde administrador:");
@@ -17,7 +17,7 @@ namespace taller2
                 Console.WriteLine($"Mesa {mesas[i].NumeroDeMesa}: {(mesas[i].Ocupada ? "Ocupada" : "Disponible")}");
             }
         }
-
+        // ocupar mesa retorna el valor a mesas cuando se ocupa
         public Mesa[] ocupar_mesa(Mesa[] mesas)
         {
             Console.WriteLine("* Ingrese el número de mesa que desea ocupar:");
@@ -47,7 +47,7 @@ namespace taller2
             }
             return mesas;
         }
-
+        // ocupar mesa retorna el valor a mesas cuando se desocupa
         public Mesa[] desocupar_mesa(Mesa[] mesas)
         {
             Console.WriteLine("* Ingrese el número de mesa que desea desocupar:");
@@ -76,6 +76,7 @@ namespace taller2
             }
             return mesas;
         }
+        // ver productos de mesa ,muestra sus productos 
         public void ver_productos_mesa(Mesa[] mesas)
         {
 
@@ -89,6 +90,7 @@ namespace taller2
                     {
                         Console.WriteLine(producto.nombreProducto);
                     }
+            
                 }
                 else
                 {

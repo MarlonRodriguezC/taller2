@@ -8,6 +8,9 @@ namespace taller2
 {
     internal class Producto
     {
+
+        // este objeto lo cree con el proposito que ricardo lo tomase
+        
         public string nombreProducto;
        
         private float precio;

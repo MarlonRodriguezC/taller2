@@ -8,13 +8,17 @@ namespace taller2
 {
     internal class Factura
     {
+        //factura , si yuu quiere usar este objeto puede usarlo o puede usar el del rpfoe
         private string fecha;
-        //private int estado_actual;
+
         private string medio_pago;
+
         private float iva;
+
         private float total;
+
         private Producto[] canasta;
-        //private int indice;
+
         private int numero_factura;
 
         public string Fecha { get => fecha; set => fecha = value; }
