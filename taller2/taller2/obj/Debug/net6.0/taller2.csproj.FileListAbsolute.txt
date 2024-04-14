@@ -1,0 +1,70 @@
+C:\Users\Usuario\source\repos\taller2\taller2\obj\Debug\net6.0\taller2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\taller2\taller2\obj\Debug\net6.0\taller2.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\taller2\taller2\obj\Debug\net6.0\taller2.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\taller2\taller2\obj\Debug\net6.0\taller2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\taller2\taller2\bin\Debug\net6.0\taller2.exe
+C:\Users\Usuario\source\repos\taller2\taller2\bin\Debug\net6.0\taller2.deps.json
+C:\Users\Usuario\source\repos\taller2\taller2\bin\Debug\net6.0\taller2.runtimeconfig.json
+C:\Users\Usuario\source\repos\taller2\taller2\bin\Debug\net6.0\taller2.dll
+C:\Users\Usuario\source\repos\taller2\taller2\bin\Debug\net6.0\taller2.pdb
+C:\Users\Usuario\source\repos\taller2\taller2\obj\Debug\net6.0\taller2.dll
+C:\Users\Usuario\source\repos\taller2\taller2\obj\Debug\net6.0\refint\taller2.dll
+C:\Users\Usuario\source\repos\taller2\taller2\obj\Debug\net6.0\taller2.pdb
+C:\Users\Usuario\source\repos\taller2\taller2\obj\Debug\net6.0\taller2.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\taller2\taller2\obj\Debug\net6.0\ref\taller2.dll
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\bin\Debug\net6.0\taller2.exe
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\bin\Debug\net6.0\taller2.deps.json
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\bin\Debug\net6.0\taller2.runtimeconfig.json
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\bin\Debug\net6.0\taller2.dll
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\bin\Debug\net6.0\taller2.pdb
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\obj\Debug\net6.0\taller2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\obj\Debug\net6.0\taller2.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\obj\Debug\net6.0\taller2.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\obj\Debug\net6.0\taller2.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\obj\Debug\net6.0\taller2.dll
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\obj\Debug\net6.0\refint\taller2.dll
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\obj\Debug\net6.0\taller2.pdb
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\obj\Debug\net6.0\taller2.genruntimeconfig.cache
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\obj\Debug\net6.0\ref\taller2.dll
+C:\Users\ricar\Downloads\taller2-main (1)\taller2-main\taller2\bin\Debug\net6.0\taller2.exe
+C:\Users\ricar\Downloads\taller2-main (1)\taller2-main\taller2\bin\Debug\net6.0\taller2.deps.json
+C:\Users\ricar\Downloads\taller2-main (1)\taller2-main\taller2\bin\Debug\net6.0\taller2.runtimeconfig.json
+C:\Users\ricar\Downloads\taller2-main (1)\taller2-main\taller2\bin\Debug\net6.0\taller2.dll
+C:\Users\ricar\Downloads\taller2-main (1)\taller2-main\taller2\bin\Debug\net6.0\taller2.pdb
+C:\Users\ricar\Downloads\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\taller2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Downloads\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\taller2.AssemblyInfoInputs.cache
+C:\Users\ricar\Downloads\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\taller2.AssemblyInfo.cs
+C:\Users\ricar\Downloads\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\taller2.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Downloads\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\taller2.dll
+C:\Users\ricar\Downloads\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\refint\taller2.dll
+C:\Users\ricar\Downloads\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\taller2.pdb
+C:\Users\ricar\Downloads\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\taller2.genruntimeconfig.cache
+C:\Users\ricar\Downloads\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\ref\taller2.dll
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\taller2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\taller2.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\taller2.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\taller2.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\taller2.dll
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\refint\taller2.dll
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\taller2.pdb
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\taller2-main (1)\taller2-main\taller2\bin\Debug\net6.0\taller2.exe
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\taller2-main (1)\taller2-main\taller2\bin\Debug\net6.0\taller2.deps.json
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\taller2-main (1)\taller2-main\taller2\bin\Debug\net6.0\taller2.runtimeconfig.json
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\taller2-main (1)\taller2-main\taller2\bin\Debug\net6.0\taller2.dll
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\taller2-main (1)\taller2-main\taller2\bin\Debug\net6.0\taller2.pdb
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\taller2.genruntimeconfig.cache
+C:\Users\B09S105est\Desktop\Nueva carpeta\taller2-main\taller2\taller2-main (1)\taller2-main\taller2\obj\Debug\net6.0\ref\taller2.dll
+C:\Users\Usuario\PDOO\taller2\taller2\bin\Debug\net6.0\taller2.exe
+C:\Users\Usuario\PDOO\taller2\taller2\bin\Debug\net6.0\taller2.deps.json
+C:\Users\Usuario\PDOO\taller2\taller2\bin\Debug\net6.0\taller2.runtimeconfig.json
+C:\Users\Usuario\PDOO\taller2\taller2\bin\Debug\net6.0\taller2.dll
+C:\Users\Usuario\PDOO\taller2\taller2\bin\Debug\net6.0\taller2.pdb
+C:\Users\Usuario\PDOO\taller2\taller2\obj\Debug\net6.0\taller2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\PDOO\taller2\taller2\obj\Debug\net6.0\taller2.AssemblyInfoInputs.cache
+C:\Users\Usuario\PDOO\taller2\taller2\obj\Debug\net6.0\taller2.AssemblyInfo.cs
+C:\Users\Usuario\PDOO\taller2\taller2\obj\Debug\net6.0\taller2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\PDOO\taller2\taller2\obj\Debug\net6.0\taller2.dll
+C:\Users\Usuario\PDOO\taller2\taller2\obj\Debug\net6.0\refint\taller2.dll
+C:\Users\Usuario\PDOO\taller2\taller2\obj\Debug\net6.0\taller2.pdb
+C:\Users\Usuario\PDOO\taller2\taller2\obj\Debug\net6.0\taller2.genruntimeconfig.cache
+C:\Users\Usuario\PDOO\taller2\taller2\obj\Debug\net6.0\ref\taller2.dll
