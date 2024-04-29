@@ -30,14 +30,14 @@ namespace Proyecto___2
 
             //ASCII 
             Console.ForegroundColor = ConsoleColor.Magenta;
-            Console.WriteLine("\r\n                                                                                \r\n          ____                                                                  \r\n        ,'  , `.                      ,--,                                      \r\n     ,-+-,.' _ |                    ,--.'|                                      \r\n  ,-+-. ;   , ||             __  ,-.|  | :      ,---.        ,---,              \r\n ,--.'|'   |  ;|           ,' ,'/ /|:  : '     '   ,'\\   ,-+-. /  |  .--.--.    \r\n|   |  ,', |  ':  ,--.--.  '  | |' ||  ' |    /   /   | ,--.'|'   | /  /    '   \r\n|   | /  | |  || /       \\ |  |   ,''  | |   .   ; ,. :|   |  ,\"' ||  :  /`./   \r\n'   | :  | :  |,.--.  .-. |'  :  /  |  | :   '   | |: :|   | /  | ||  :  ;_     \r\n;   . |  ; |--'  \\__\\/: . .|  | '   '  : |__ '   | .; :|   | |  | | \\  \\    `.  \r\n|   : |  | ,     ,\" .--.; |;  : |   |  | '.'||   :    ||   | |  |/   `----.   \\ \r\n|   : '  |/     /  /  ,.  ||  , ;   ;  :    ; \\   \\  / |   | |--'   /  /`--'  / \r\n;   | |`-'     ;  :   .'   \\---'    |  ,   /   `----'  |   |/      '--'.     /  \r\n|   ;/         |  ,     .-./         ---`-'            '---'         `--'---'   \r\n'---'           `--`---'                                                        \r\n                                                                                \r\n");
+            Console.WriteLine("  \r\n                                                                                                \r\n          ____                                                                                  \r\n        ,'  , `.                                                                                \r\n     ,-+-,.' _ |                                                                                \r\n  ,-+-. ;   , ||         ,--,             __  ,-.                              ,---,    ,---.   \r\n ,--.'|'   |  ;|       ,'_ /|           ,' ,'/ /|  ,----._,.               ,-+-. /  |  '   ,'\\  \r\n|   |  ,', |  ':  .--. |  | :    ,---.  '  | |' | /   /  ' /   ,--.--.    ,--.'|'   | /   /   | \r\n|   | /  | |  ||,'_ /| :  . |   /     \\ |  |   ,'|   :     |  /       \\  |   |  ,\"' |.   ; ,. : \r\n'   | :  | :  |,|  ' | |  . .  /    /  |'  :  /  |   | .\\  . .--.  .-. | |   | /  | |'   | |: : \r\n;   . |  ; |--' |  | ' |  | | .    ' / ||  | '   .   ; ';  |  \\__\\/: . . |   | |  | |'   | .; : \r\n|   : |  | ,    :  | : ;  ; | '   ;   /|;  : |   '   .   . |  ,\" .--.; | |   | |  |/ |   :    | \r\n|   : '  |/     '  :  `--'   \\'   |  / ||  , ;    `---`-'| | /  /  ,.  | |   | |--'   \\   \\  /  \r\n;   | |`-'      :  ,      .-./|   :    | ---'     .'__/\\_: |;  :   .'   \\|   |/        `----'   \r\n|   ;/           `--`----'     \\   \\  /           |   :    :|  ,     .-./'---'                  \r\n'---'                           `----'             \\   \\  /  `--`---'                           \r\n                                                    `--`-'                                      \r\n                                                ");
             Console.ResetColor();
             Console.WriteLine("  +---------------------------------------------------------------------------+");
 
 
 
 
-            Console.WriteLine(" Marlon's.Corporation ");
+            Console.WriteLine(" Muergano.S.A.S.Corporation ");
             Console.WriteLine($"Fecha: {DateTime.Now.ToShortDateString()}");
             Console.WriteLine($"Hora: {DateTime.Now.ToShortTimeString()}");
             Console.WriteLine($"----------------------------------");
@@ -79,18 +79,18 @@ namespace Proyecto___2
         private void ExportarFacturaATXT(byte numeroMesa, List<Producto> productos) //La función para Exportar la factura de consola a un archivo .txt
         {
             string path = @"C:\PC\POO\Proyecto#2_/MarlonRodriguezC/taller2-main"; //Esta es la ruta donde queremos que se guarde el archivo .txt
-            string fileName = $"Factura_Mesa_{numeroMesa}.txt"; //Para guardar la factura ordenadamente
+            string fileName = $"Factura{numeroMesa}.txt"; //Para guardar la factura ordenadamente
             string fullPath = Path.Combine(path, fileName);
 
             using (StreamWriter sw = File.CreateText(fullPath))
             {
                 sw.WriteLine("FACTURA");
-                sw.WriteLine("----------------------------------");
+                sw.WriteLine("------------------------------------------");
                 sw.WriteLine($"Fecha: {DateTime.Now.ToShortDateString()}");
                 sw.WriteLine($"Hora: {DateTime.Now.ToShortTimeString()}");
-                sw.WriteLine("----------------------------------");
+                sw.WriteLine("------------------------------------------");
                 sw.WriteLine($"Número de mesa: {numeroMesa}");
-                sw.WriteLine("----------------------------------");
+                sw.WriteLine("------------------------------------------");
                 sw.WriteLine("Productos consumidos: ");
 
                 foreach (var producto in productos)
