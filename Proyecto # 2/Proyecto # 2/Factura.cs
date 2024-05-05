@@ -55,9 +55,9 @@ namespace Proyecto___2
             Console.WriteLine($"------------------------------------");
             Console.WriteLine($"Total Productos Consumidos: {CalcularTotalProductos(productosConsumidos):C}");
             Console.WriteLine($"IVA: {CalcularIVA(productosConsumidos):C}");
-            Console.WriteLine($"----------------------------------");
+            Console.WriteLine($"------------------------------------");
             Console.WriteLine($"Total a Pagar: {CalcularIVA(productosConsumidos) + CalcularTotalProductos(productosConsumidos):C}");
-            Console.WriteLine($"----------------------------------");
+            Console.WriteLine($"------------------------------------");
             Console.WriteLine("Gracias por tu Compra ! Te esperamos pronto ¡");
 
 
@@ -102,7 +102,7 @@ namespace Proyecto___2
                 {
                     sw.WriteLine($"- {producto.Nombre}: {producto.Precio:C}");
                 }
-                sw.WriteLine("----------------------------------");
+                sw.WriteLine("------------------------------------------");
                 sw.WriteLine($" TOTAL : {CalcularTotalProductos(productos):C}");
                 sw.WriteLine($"IVA: {CalcularIVA(productos):C}");
                 sw.WriteLine("----------------------------------");
