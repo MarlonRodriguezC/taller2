@@ -260,7 +260,7 @@
 
         static void MostrarProductos(List<Producto> productos)
         {
-            Console.WriteLine("Lista de productos:");
+            Console.WriteLine("Lista de productos Disponibles:");
             foreach (var producto in productos)
             {
                 Console.WriteLine($"ID: {producto.Id} - Nombre: {producto.Nombre} - Precio: {producto.Precio}");
