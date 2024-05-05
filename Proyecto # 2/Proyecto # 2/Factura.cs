@@ -21,6 +21,8 @@ namespace Proyecto___2
             if (!_productosConsumidosPorMesa.ContainsKey(numeroMesa))
             {
                 Console.WriteLine($" No se agregaron productos en la mesa {numeroMesa}.");
+                Console.WriteLine($" intentalo nuevamente ");
+
                 return;
             }
 
