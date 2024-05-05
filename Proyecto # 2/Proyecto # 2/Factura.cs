@@ -59,7 +59,6 @@ namespace Proyecto___2
             Console.WriteLine($"Total a Pagar: {CalcularIVA(productosConsumidos) + CalcularTotalProductos(productosConsumidos):C}");
             Console.WriteLine($"----------------------------------");
             Console.WriteLine("Gracias por tu Compra ! Te esperamos pronto ¡");
-                //C.WriteLine("----------------------------------");
 
 
             ExportarFacturaATXT(numeroMesa, productosConsumidos);
