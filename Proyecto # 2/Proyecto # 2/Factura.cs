@@ -43,16 +43,16 @@ namespace Proyecto___2
             Console.WriteLine(" Muergano.Inc ");
             Console.WriteLine($"Fecha: {DateTime.Now.ToShortDateString()}");
             Console.WriteLine($"Hora: {DateTime.Now.ToShortTimeString()}");
-            Console.WriteLine($"----------------------------------");
+            Console.WriteLine($"------------------------------------");
             Console.WriteLine($"Número de mesa: {numeroMesa}"); //El número que identifica cada mesa para generar su respectiva factura
-            Console.WriteLine($"----------------------------------");
+            Console.WriteLine($"------------------------------------");
             Console.WriteLine("Productos consumidos:");
 
             foreach (var producto in productosConsumidos)
             {
                 Console.WriteLine($"- {producto.Nombre}: {producto.Precio:C}");
             }
-            Console.WriteLine($"----------------------------------");
+            Console.WriteLine($"------------------------------------");
             Console.WriteLine($"Total Productos Consumidos: {CalcularTotalProductos(productosConsumidos):C}");
             Console.WriteLine($"IVA: {CalcularIVA(productosConsumidos):C}");
             Console.WriteLine($"----------------------------------");
