@@ -93,7 +93,7 @@ namespace Proyecto___2
                 sw.WriteLine("------------------------------------------");
                 sw.WriteLine($"Número de mesa: {numeroMesa}");
                 sw.WriteLine("------------------------------------------");
-                sw.WriteLine("Productos consumidos: ");
+                sw.WriteLine("Productos consumidos : ");
 
                 foreach (var producto in productos)
                 {

@@ -146,7 +146,7 @@
 
                 productos.Add(producto);
 
-                Console.WriteLine("Producto agregado con éxito.");
+                Console.WriteLine("Producto agregado con éxito .");
             }
         }
         static void MostrarMenu(List<Producto> productos)
