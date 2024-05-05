@@ -20,7 +20,7 @@ namespace Proyecto___2
         {
             if (!_productosConsumidosPorMesa.ContainsKey(numeroMesa))
             {
-                Console.WriteLine($"No existen productos en la mesa {numeroMesa}.");
+                Console.WriteLine($" No se agregaron productos en la mesa {numeroMesa}.");
                 return;
             }
 
@@ -37,7 +37,7 @@ namespace Proyecto___2
 
 
 
-            Console.WriteLine(" Muergano.S.A.S.Corporation ");
+            Console.WriteLine(" Muergano.Inc ");
             Console.WriteLine($"Fecha: {DateTime.Now.ToShortDateString()}");
             Console.WriteLine($"Hora: {DateTime.Now.ToShortTimeString()}");
             Console.WriteLine($"----------------------------------");
@@ -99,7 +99,7 @@ namespace Proyecto___2
                     sw.WriteLine($"- {producto.Nombre}: {producto.Precio:C}");
                 }
                 sw.WriteLine("----------------------------------");
-                sw.WriteLine($"Total Productos Consumidos: {CalcularTotalProductos(productos):C}");
+                sw.WriteLine($" TOTAL : {CalcularTotalProductos(productos):C}");
                 sw.WriteLine($"IVA: {CalcularIVA(productos):C}");
                 sw.WriteLine("----------------------------------");
                 sw.WriteLine($"Total a Pagar: {CalcularIVA(productos) + CalcularTotalProductos(productos):C}"); //Suma total del IVA, más el total de los productos
