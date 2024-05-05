@@ -20,7 +20,7 @@
 
                 Console.WriteLine("Seleccione una opción: ");
                 Console.WriteLine("1. Gestion Menu y productos");
-                Console.WriteLine("2. Pedido mesa");
+                Console.WriteLine("2. Pedido en mesa");
                 Console.WriteLine("3. Factura ");
                 Console.WriteLine("4. Inventario");
                 Console.WriteLine("0. Salir");
@@ -233,8 +233,8 @@
             while (true)
             {
                 Console.WriteLine("Seleccione una opción:");
-                Console.WriteLine("1. Agregar producto");
-                Console.WriteLine("2. Eliminar producto");
+                Console.WriteLine("1. Agregar producto a la Mesa ");
+                Console.WriteLine("2. Eliminar producto de la mesa");
                 Console.WriteLine("0. Volver al menú principal");
                 string opcion = Console.ReadLine();
                 // Aquí son los casos para el apartado de agregar productos a la mesa, cada producto que la mesa ha consumido
