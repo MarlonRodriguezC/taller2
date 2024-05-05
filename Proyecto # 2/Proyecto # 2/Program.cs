@@ -32,9 +32,9 @@
                     case "0": Environment.Exit(0); ; break;
                     case "3": // Factura
                         Console.Write("Ingrese el número de mesa para generar la factura: ");
-                        while (!byte.TryParse(Console.ReadLine(), out numeroMesa) || numeroMesa < 1 || numeroMesa > 20)
+                        while (!byte.TryParse(Console.ReadLine(), out numeroMesa) || numeroMesa < 1 || numeroMesa > 12)
                         {
-                            Console.WriteLine("Por favor, ingrese un número de mesa válido (entre 1 y 20).");
+                            Console.WriteLine("Por favor, ingrese un número de mesa válido (entre 1 y 12).");
                             Console.Write("Ingrese el número de mesa para generar la factura: ");
                         }
                         Factura factura = new Factura(productosConsumidosPorMesa);
@@ -110,7 +110,7 @@
 
             while (true)
             {
-                Console.Write("Nombre del producto : ");
+                Console.Write("Nombre del producto: ( Si desea salir presione enter ) ");
                 string nombre = Console.ReadLine();
 
                 // Si el usuario no escribe el nombre , salir del bucle
