@@ -50,7 +50,7 @@
                         for (byte j = 0; j < 1;)
                         {
                             Console.WriteLine("Seleccione una opción: ");
-                            Console.WriteLine("1. Agregar Productos ");
+                            Console.WriteLine("1. Agregar Productos a la Carta ");
                             Console.WriteLine("2. Eliminar productos");
                             Console.WriteLine("3. Mirar carta o Menu ");
                             Console.WriteLine("0. Volver al menu principal");
