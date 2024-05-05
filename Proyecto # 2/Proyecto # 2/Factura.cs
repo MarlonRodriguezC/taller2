@@ -105,9 +105,9 @@ namespace Proyecto___2
                 sw.WriteLine("------------------------------------------");
                 sw.WriteLine($" TOTAL : {CalcularTotalProductos(productos):C}");
                 sw.WriteLine($"IVA: {CalcularIVA(productos):C}");
-                sw.WriteLine("----------------------------------");
+                sw.WriteLine("------------------------------------------");
                 sw.WriteLine($"Total a Pagar: {CalcularIVA(productos) + CalcularTotalProductos(productos):C}"); //Suma total del IVA, más el total de los productos
-                sw.WriteLine("----------------------------------");
+                sw.WriteLine("------------------------------------------");
             }
 
 
