@@ -285,7 +285,7 @@
             }
             else
             {
-                Console.WriteLine("No se encontró el producto .");
+                Console.WriteLine("No se encontró el producto intentalo nuevamente .");
             }
         }
 
