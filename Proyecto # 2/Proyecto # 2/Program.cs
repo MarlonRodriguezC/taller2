@@ -110,7 +110,7 @@
 
             while (true)
             {
-                Console.Write("Nombre del producto: ( Si desea salir presione enter ) ");
+                Console.Write("Nombre del producto( Si desea salir presione enter ): ");
                 string nombre = Console.ReadLine();
 
                 // Si el usuario no escribe el nombre , salir del bucle
