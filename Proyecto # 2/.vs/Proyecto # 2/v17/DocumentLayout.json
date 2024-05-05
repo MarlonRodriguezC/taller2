@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ricar\\OneDrive\\Escritorio\\taller2\\Proyecto # 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D067AA74-8ED8-4C89-B0E9-55F2F50868D1}|Proyecto # 2\\Proyecto # 2.csproj|c:\\users\\ricar\\onedrive\\escritorio\\taller2\\proyecto # 2\\proyecto # 2\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D067AA74-8ED8-4C89-B0E9-55F2F50868D1}|Proyecto # 2\\Proyecto # 2.csproj|solutionrelative:proyecto # 2\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D067AA74-8ED8-4C89-B0E9-55F2F50868D1}|Proyecto # 2\\Proyecto # 2.csproj|c:\\users\\ricar\\onedrive\\escritorio\\taller2\\proyecto # 2\\proyecto # 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D067AA74-8ED8-4C89-B0E9-55F2F50868D1}|Proyecto # 2\\Proyecto # 2.csproj|solutionrelative:proyecto # 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D067AA74-8ED8-4C89-B0E9-55F2F50868D1}|Proyecto # 2\\Proyecto # 2.csproj|c:\\users\\ricar\\onedrive\\escritorio\\taller2\\proyecto # 2\\proyecto # 2\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D067AA74-8ED8-4C89-B0E9-55F2F50868D1}|Proyecto # 2\\Proyecto # 2.csproj|solutionrelative:proyecto # 2\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D067AA74-8ED8-4C89-B0E9-55F2F50868D1}|Proyecto # 2\\Proyecto # 2.csproj|c:\\users\\ricar\\onedrive\\escritorio\\taller2\\proyecto # 2\\proyecto # 2\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D067AA74-8ED8-4C89-B0E9-55F2F50868D1}|Proyecto # 2\\Proyecto # 2.csproj|solutionrelative:proyecto # 2\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Escritorio\\taller2\\Proyecto # 2\\Proyecto # 2\\Producto.cs",
               "RelativeDocumentMoniker": "Proyecto # 2\\Producto.cs",
@@ -34,32 +34,34 @@
               "RelativeToolTip": "Proyecto # 2\\Producto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T00:43:45.793Z"
+              "WhenOpened": "2024-04-24T00:43:45.793Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Factura.cs",
               "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Escritorio\\taller2\\Proyecto # 2\\Proyecto # 2\\Factura.cs",
               "RelativeDocumentMoniker": "Proyecto # 2\\Factura.cs",
               "ToolTip": "C:\\Users\\ricar\\OneDrive\\Escritorio\\taller2\\Proyecto # 2\\Proyecto # 2\\Factura.cs",
               "RelativeToolTip": "Proyecto # 2\\Factura.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAA0AAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwBYAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T00:41:18.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Escritorio\\taller2\\Proyecto # 2\\Proyecto # 2\\Program.cs",
               "RelativeDocumentMoniker": "Proyecto # 2\\Program.cs",
               "ToolTip": "C:\\Users\\ricar\\OneDrive\\Escritorio\\taller2\\Proyecto # 2\\Proyecto # 2\\Program.cs",
               "RelativeToolTip": "Proyecto # 2\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBoAAAAAAAAA",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAYwHwAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T00:34:16.994Z"
+              "WhenOpened": "2024-04-24T00:34:16.994Z",
+              "EditorCaption": ""
             }
           ]
         }

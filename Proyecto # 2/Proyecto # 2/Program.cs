@@ -122,7 +122,7 @@
                 while (!float.TryParse(Console.ReadLine(), out precio) || precio < 0)
                 {
                     Console.WriteLine("Por favor, ingrese un precio válido.");
-                    Console.Write("Precio del producto: ");
+                    Console.Write("Ingrese Precio del producto: ");
                 }
 
 
